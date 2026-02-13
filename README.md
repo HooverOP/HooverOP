@@ -1,13 +1,21 @@
-# user@vach:~$ ./profile.sh
+### Option B: The "Minimalist / Product" Vibe
+*This strips away all the noise. No badges, no long paragraphs. Just what you do. This looks like a senior developer's profile.*
 
-```javascript
-const vache = {
-    code: ["React Native", "Expo", "Next.js"],
-    current_focus: "Building 'Bumin' (Reservation System)",
-    education: "CS @ American University of Kurdistan",
-    side_hustle: ["Leopard Life Radio Host", "YouTube Edutainment"],
-    security: "Learning Kali Linux & Pen-testing",
-    location: "Duhok, IQ"
-};
+```markdown
+# Vache Aqob.
 
-console.log("Building apps that actually work.");
+**Full-stack Developer** based in Kurdistan.
+I build mobile apps with **Expo** and web platforms with **Next.js**.
+
+---
+
+### 🏗️ Now
+- **Bumin:** A reservation SaaS for barbershops & salons.
+- **AUK Radio:** Hosting the *Leopard Life* show.
+- **Learning:** Cybersecurity & Advanced Backend Architecture.
+
+### 📂 Work
+[vach.dev](https://vach.dev) • [Pizza Avro](https://pizzaavro.com) • [Havana Lounge](https://havanaloungeduhok.vercel.app)
+
+---
+*Get in touch:* [instagram](https://instagram.com/vach.dev) / [email](mailto:your@email.com)
